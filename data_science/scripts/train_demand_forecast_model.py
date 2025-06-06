@@ -1,1 +1,0 @@
-# Script to train demand forecasting model
